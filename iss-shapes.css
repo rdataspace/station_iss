@@ -1,0 +1,60 @@
+/* Shapes ISS CSS */
+
+  .shape-ams-patch {
+    padding-right: 15px;
+    shape-outside: polygon(0px 0px, 0px 220px, 125px 220px, 180px 170px, 180px 60px, 150px 0px);
+  }
+  .shape-ams-drawing {
+    padding-right: 15px;
+    shape-outside: polygon(0px 0px, 0px 270px, 270px 270px, 365px 180px, 365px 70px, 335px 0px);
+  }
+  .shape-dextre {
+    shape-outside: polygon(17px 111px, 31px 182px, 56px 236px, 221px 226px, 221px 1px, 12px 6px);
+  }
+  .shape-zarya-flight {
+    padding-left: 15px;
+    shape-outside: polygon(90px 15px, 90px 50px, 30px 80px, 0px 145px, 335px 145px, 335px 15px);
+  }
+  .shape-columbus {
+    shape-outside: polygon(130px 4px, 26.56% 10.68%, 3.59% 16.68%, 8px 287px, 386px 285px, 388px -1px);
+  }
+  .shape-destiny-end {
+    shape-outside: polygon(0px 0px, 1px 181px, 381px 182px, 97.11% 76.2%, 99.88% 47.94%, 97.07% 15.78%, 84.19% -2.29%);
+  }
+  .shape-destiny-patch {
+    shape-outside: polygon(0px 0px, 4px 270px, 159px 268px, 101.08% 59.24%, 100.31% 32.92%, 144px 0px);
+  }
+  .shape-destiny-cutaway {
+    shape-outside: polygon(-1px 44px, -0.28% 68.58%, 22px 173px, 273px 172px, 100.19% -0.14%, 10.84% 13.13%);
+  }
+  .shape-its-s6 {
+    shape-outside: polygon(0px 0px, 2px 26px, 24.11% 35.11%, 26.25% 86.21%, 0.69% 90.66%, 1.33% 100.16%, 318px 247px, 318px 1px);
+  }
+  .shape-irosa-dart {
+    shape-outside: polygon(-3px 13px, -2px 44px, 17.84% 29.85%, 35.76% 47.70%, 48.03% 64.78%, 69.44% 82.79%, 70.16% 89.7%, 21.97% 91.13%, 23.11% 99.85%, 321px 454px, 309px 14px);
+  }
+  .shape-rassvet {
+    shape-outside: polygon(61px 1px, 0.45% 44.73%, 10px 247px, 312px 247px, 309px -1px);
+  }
+  .shape-quest-components {
+    shape-outside: polygon(0px 0px, -1px 367px, 713px 365px, 98.12% 40.07%, 60.56% 39.82%, 362px 5px);
+  }
+  .shape-quest-astronaut {
+    shape-outside: polygon(191px 8px, 48.67% 22.47%, 3.82% 26.83%, 3.55% 63.18%, 45.65% 65.61%, 45.48% 90.95%, 9.86% 92.34%, 10.74% 99.97%, 331px 298px, 332px 10px);
+  }
+  .shape-z1-photo {
+    shape-outside: polygon(104px 115px, 0.13% 51.38%, 1px 236px, 250px 235px, 99.68% 0.76%, 167px 2px);
+  }
+  .shape-zarya-flight {
+    shape-outside: polygon(91px 72px, 4.31% 52.58%, 74px 137px, 33.27% 100.65%, 336px 165px, 99.68% 0.76%, 103px 1px);
+  }
+  .shape-zarya-side-end {
+    shape-outside: polygon(4px 46px, 4.31% 52.58%, 27px 119px, 7.55% 98.01%, 309px 181px, 99.68% 0.76%, 35px 3px);
+  }
+  .shape-zarya-deploy {
+    shape-outside: polygon(-0.04% 82.12%, 85px 229px, 19.17% 100.8%, 461px 275px, 99.68% 0.76%, 3px 1px);
+  }
+  .shape-zvezda-flight {
+    shape-outside: polygon(25.56% 30.52%, -0.04% 61.71%, 0px 187px, 26.52% 102.95%, 401px 221px, 99.68% 0.76%, 103px 1px);
+  }
+  /* End */
